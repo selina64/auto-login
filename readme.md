@@ -3,3 +3,4 @@
 2. 再次断掉校园网，双击login.vbs测试联网。
 3. 按“windows”键，输入“task”，新建任务（见doc目录下的截图）
 4. 按doc目录下的截图进行设置。
+5. Crypto.Cipher的安装应使用`pip install pycryptodome`
